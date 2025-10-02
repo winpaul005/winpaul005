@@ -13,6 +13,8 @@ Indie Gamedev / Backend developer, currently studying in Moscow, Russia.
 
 ### Portfolio:
 - TBA
+
+https://anfaithul.carrd.co/
 <!--
 **winpaul005/winpaul005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
