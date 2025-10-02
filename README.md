@@ -1,5 +1,18 @@
-## Hi there 👋
+## Pavel Gusev
+*FLY ME TO THE MOON AND LET ME PLAY AMONG THE STARS*
 
+*LET ME SEE WHAT SPRING IS LIKE ON JUPITER AND MARS*
+
+![lmao](JKK2rIH.gif)
+### Who am I?
+Indie Gamedev / Backend developer, currently studying in Moscow, Russia.
+### Languages
+- C/C++
+- Python
+- C#
+
+### Portfolio:
+- TBA
 <!--
 **winpaul005/winpaul005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
