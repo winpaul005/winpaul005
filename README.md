@@ -5,7 +5,8 @@
 
 ![lmao](JKK2rIH.gif)
 ### Who am I?
-Indie Gamedev / Backend developer, currently studying in Moscow, Russia.
+Indie Gamedev / Backend developer, currently studying in Moscow, Russia
+
 ### Languages
 - C/C++
 - Python
