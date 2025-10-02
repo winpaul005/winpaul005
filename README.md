@@ -7,7 +7,7 @@
 ### Who am I?
 Indie Gamedev / Backend developer, currently studying in Moscow, Russia
 
-![Winpaul005's GitHub stats](https://github-readme-stats.vercel.app/api?username=winpaul005&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winpaul005)](https://github.com/winpaul005/github-readme-stats)
 
 ### Portfolio:
 - TBA
